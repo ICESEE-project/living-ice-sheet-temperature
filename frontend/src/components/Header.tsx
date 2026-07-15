@@ -15,7 +15,7 @@ export default function Header() {
       <Box flex="1" />
       <Button variant={"surface"}>
         <a
-          href="https://elizadawson.github.io/living-ice-sheet-temperature/docs/"
+          href="https://github.com/ICESEE-project/living-ice-sheet-temperature/tree/1d0cf566534f982bbdecf43efa880928c4dda1eb/docs"
           target="_blank"
         >
           Docs

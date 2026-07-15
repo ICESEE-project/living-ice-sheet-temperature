@@ -1,8 +1,8 @@
 [project]
 site_name = "Living Ice Sheet Temperature"
 site_description = "Radar-derived ice temperature data visualization for Antarctica."
-site_url = "https://elizadawson.github.io/living-ice-sheet-temperature/docs/"
-repo_url = "https://github.com/elizadawson/living-ice-sheet-temperature"
+site_url = "https://cryostack.eas.gatech.edu/livist/docs/"
+repo_url = "https://github.com/ICESEE-project/living-ice-sheet-temperature"
 copyright = "Copyright &copy; 2026 Development Seed"
 edit_uri = "edit/main/docs/"
 nav = [
@@ -64,3 +64,6 @@ paths = ["src"]
 docstring_style = "google"
 inherited_members = true
 show_source = false
+
+[project.extra]
+homepage = "https://cryostack.eas.gatech.edu/livist/"
