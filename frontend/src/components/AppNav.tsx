@@ -11,7 +11,7 @@ function AppNav() {
         LIVIST
       </a> */}
 
-      <a href="/livist/">
+      <a href="/livist/docs/livist_user_manual/">
         User Manual
       </a>
 

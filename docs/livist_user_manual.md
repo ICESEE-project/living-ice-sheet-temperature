@@ -498,7 +498,7 @@ If you use LIVIST or CryoStack in publications, presentations, reports, or educa
 
 ### CryoStack
 
-Kyanjo, B. (2026).  
+Kyanjo, B., Alexander A. R., Winnie C,, Dawson E., Tarzona A.  and contributors (2026).  
 **CryoStack: A Platform for Interactive Cryosphere Modeling, Data Products, and Scientific Workflows.**  
 Georgia Institute of Technology.
 
