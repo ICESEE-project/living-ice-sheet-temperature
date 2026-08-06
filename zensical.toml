@@ -68,3 +68,7 @@ show_source = false
 
 [project.extra]
 homepage = "https://cryostack.eas.gatech.edu/livist/"
+
+extra_css = [
+  "docs/stylesheets/cryostack.css",
+]

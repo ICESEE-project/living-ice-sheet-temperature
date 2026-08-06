@@ -1,1 +1,1 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/AppNav.tsx","./src/components/Header.tsx","./src/components/Map.tsx","./src/hooks/usePublic.ts","./src/layers/temperatureLayer.ts","./src/lib/AntarcticTileset2D.ts"],"version":"6.0.3"}
+{"root":["./src/App.tsx","./src/cryostackAccount.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/AppNav.tsx","./src/components/Header.tsx","./src/components/Map.tsx","./src/hooks/usePublic.ts","./src/layers/temperatureLayer.ts","./src/lib/AntarcticTileset2D.ts"],"version":"6.0.3"}
