@@ -3,8 +3,11 @@ site_name = "Living Ice Sheet Temperature"
 site_description = "Radar-derived ice temperature data visualization for Antarctica."
 site_url = "https://cryostack.eas.gatech.edu/livist/docs/"
 repo_url = "https://github.com/ICESEE-project/living-ice-sheet-temperature"
-copyright = "Copyright &copy; 2026 Development Seed"
+copyright = "Copyright &copy; 2026 CryoStack &middot; originally developed by Development Seed"
 edit_uri = "edit/main/docs/"
+extra_css = [
+    "stylesheets/cryostack.css",
+]
 nav = [
     "index.md",
     "livist_user_manual.md",
@@ -68,7 +71,3 @@ show_source = false
 
 [project.extra]
 homepage = "https://cryostack.eas.gatech.edu/livist/"
-
-extra_css = [
-  "docs/stylesheets/cryostack.css",
-]
